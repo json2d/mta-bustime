@@ -1,0 +1,56 @@
+{
+    "code": 200,
+    "currentTime": 1490941515986,
+    "data": [
+        {
+            "agency": {
+                "disclaimer": "",
+                "id": "MTA NYCT",
+                "lang": "en",
+                "name": "MTA New York City Transit",
+                "phone": "718-330-1234",
+                "privateService": false,
+                "timezone": "America/New_York",
+                "url": "http://www.mta.info"
+            },
+            "lat": 40.7076795,
+            "latSpan": 0.40939300000000145,
+            "lon": -73.9766995,
+            "lonSpan": 0.5506290000000007
+        },
+        {
+            "agency": {
+                "disclaimer": "",
+                "id": "MTA",
+                "lang": "en",
+                "name": "Metropolitan Transportation Authority",
+                "phone": "718-330-1234",
+                "privateService": false,
+                "timezone": "America/New_York",
+                "url": "http://www.mta.info"
+            },
+            "lat": 0,
+            "latSpan": 0,
+            "lon": 0,
+            "lonSpan": 0
+        },
+        {
+            "agency": {
+                "disclaimer": "",
+                "id": "MTABC",
+                "lang": "EN",
+                "name": "MTA Bus Company",
+                "phone": "",
+                "privateService": false,
+                "timezone": "America/New_York",
+                "url": "http://www.mta.info"
+            },
+            "lat": 40.7498925,
+            "latSpan": 0.36748899999999907,
+            "lon": -73.8591425,
+            "lonSpan": 0.3144010000000037
+        }
+    ],
+    "text": "OK",
+    "version": 1
+}

@@ -1,0 +1,3329 @@
+{
+    "code": 200,
+    "currentTime": 1490941516198,
+    "data": {
+        "polylines": [
+            {
+                "length": 132,
+                "levels": "",
+                "points": "uucwFjovbMDDL?h@cAhDwGl@oArDiHRg@LW@Eh@q@BEu@u@o@q@OMgBoBbEiILWpBvBlBpBNYj@eAlEwINYhGuLf@cA~EsJf@aAbFwJlBrBv@v@v@z@pBrBnBrBn@p@~@bAnBrBnBrBnBrBnBtBnBrBt@v@x@|@nBrBnBrBp@r@|@~@nBtBnBrBl@l@`AdAnBrBnBrBl@n@`AdArBvBr@t@~@`AdBhBHHnBtBnBrBvB|Bt@v@dAfAhBlBp@r@~@bAnBrBl@n@`AbA}A|CCLwAdEr@R`AVvCp@bATrA\\tCt@|Cz@bAZvAd@nCz@|@\\JD`Ad@v@`@bAp@t@v@BB|@t@vBdBr@j@dAx@XVX^t@lAd@t@\\d@\\f@~AnCpA|BRZrAhAVTRPTRv@n@dFbEl@f@pDxC\\\\FFb@eAh@sAHS`@cARi@d@iAvAmD@GtAkDpBiFtAb@`MvD~J|CFBn@]`@[NSv@}A"
+            },
+            {
+                "length": 14,
+                "levels": "",
+                "points": "cpzvF|zxbMpAgCLJx@?TMHSPy@JWJk@e@e@Uf@MX_@r@g@bA"
+            },
+            {
+                "length": 6,
+                "levels": "",
+                "points": "eszvFj}xbMcA[_LiD{LwDk@zAeAlC"
+            },
+            {
+                "length": 3,
+                "levels": "",
+                "points": "m|{vFdjybMEJgAlC"
+            },
+            {
+                "length": 4,
+                "levels": "",
+                "points": "a`|vFxmybM_FaEs@k@qDwC"
+            },
+            {
+                "length": 3,
+                "levels": "",
+                "points": "ut|vF|{xbMo@gAu@qA"
+            },
+            {
+                "length": 38,
+                "levels": "",
+                "points": "y{|vFjqxbM{@oAGKi@yAESq@_ICOIe@Ui@OUm@e@kBm@c@Oy@UqAk@[w@aAaBi@}@u@oAeB{CuCxFMTmH{Bw@c@CGw@iAmBqBo@o@_AcAoBsBm@o@aAcAqBwBu@w@s@u@{B_Cw@y@_AcA"
+            },
+            {
+                "length": 7,
+                "levels": "",
+                "points": "uk_wFbfvbMm@m@aAeAsBwBo@q@cAeAoBuB"
+            },
+            {
+                "length": 6,
+                "levels": "",
+                "points": "m}_wFtsubMq@s@}@_AoBsBo@q@_AaA"
+            },
+            {
+                "length": 4,
+                "levels": "",
+                "points": "mk`wFbeubMoBsBq@s@}@_A"
+            },
+            {
+                "length": 3,
+                "levels": "",
+                "points": "}u`wFfztbMo@s@_AaA"
+            },
+            {
+                "length": 3,
+                "levels": "",
+                "points": "m`awFfotbMm@m@aAeA"
+            },
+            {
+                "length": 3,
+                "levels": "",
+                "points": "}jawFjdtbMo@o@_AeA"
+            },
+            {
+                "length": 3,
+                "levels": "",
+                "points": "ouawFlysbMm@o@aAcA"
+            },
+            {
+                "length": 35,
+                "levels": "",
+                "points": "m|awFdrsbMi@dAaFrJi@dA}EpJi@bAqEzIMTiGvLcAgAi@i@qBwBmBsBQZe@~@cDlGIPEF]t@EF`BhBNNbBpBZV`@zAFR@@HZaFxJk@fA}BnEq@BEDMV?D"
+            }
+        ],
+        "route": {
+            "agency": {
+                "disclaimer": "",
+                "id": "MTA NYCT",
+                "lang": "en",
+                "name": "MTA New York City Transit",
+                "phone": "718-330-1234",
+                "privateService": false,
+                "timezone": "America/New_York",
+                "url": "http://www.mta.info"
+            },
+            "color": "B933AD",
+            "description": "via 92nd St / 3rd Av / 8th Av",
+            "id": "MTA NYCT_B70",
+            "longName": "Dyker Heights - Sunset Park",
+            "shortName": "B70",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+        },
+        "stopGroupings": [
+            {
+                "ordered": true,
+                "stopGroups": [
+                    {
+                        "id": "1",
+                        "name": {
+                            "name": "DYKER HEIGHTS VA HOSPITAL via 8 AV",
+                            "names": [
+                                "DYKER HEIGHTS VA HOSPITAL via 8 AV"
+                            ],
+                            "type": "destination"
+                        },
+                        "polylines": [
+                            {
+                                "length": 132,
+                                "levels": "",
+                                "points": "uucwFjovbMDDL?h@cAhDwGl@oArDiHRg@LW@Eh@q@BEu@u@o@q@OMgBoBbEiILWpBvBlBpBNYj@eAlEwINYhGuLf@cA~EsJf@aAbFwJlBrBv@v@v@z@pBrBnBrBn@p@~@bAnBrBnBrBnBrBnBtBnBrBt@v@x@|@nBrBnBrBp@r@|@~@nBtBnBrBl@l@`AdAnBrBnBrBl@n@`AdArBvBr@t@~@`AdBhBHHnBtBnBrBvB|Bt@v@dAfAhBlBp@r@~@bAnBrBl@n@`AbA}A|CCLwAdEr@R`AVvCp@bATrA\\tCt@|Cz@bAZvAd@nCz@|@\\JD`Ad@v@`@bAp@t@v@BB|@t@vBdBr@j@dAx@XVX^t@lAd@t@\\d@\\f@~AnCpA|BRZrAhAVTRPTRv@n@dFbEl@f@pDxC\\\\FFb@eAh@sAHS`@cARi@d@iAvAmD@GtAkDpBiFtAb@`MvD~J|CFBn@]`@[NSv@}A"
+                            }
+                        ],
+                        "stopIds": [
+                            "MTA_308194",
+                            "MTA_302678",
+                            "MTA_302679",
+                            "MTA_307709",
+                            "MTA_302680",
+                            "MTA_302681",
+                            "MTA_302682",
+                            "MTA_302683",
+                            "MTA_305922",
+                            "MTA_308101",
+                            "MTA_305925",
+                            "MTA_305927",
+                            "MTA_305929",
+                            "MTA_308102",
+                            "MTA_305932",
+                            "MTA_305933",
+                            "MTA_305934",
+                            "MTA_305935",
+                            "MTA_305936",
+                            "MTA_305937",
+                            "MTA_305939",
+                            "MTA_305940",
+                            "MTA_307486",
+                            "MTA_307487",
+                            "MTA_307488",
+                            "MTA_307489",
+                            "MTA_307490",
+                            "MTA_307514",
+                            "MTA_308178",
+                            "MTA_306959",
+                            "MTA_305951",
+                            "MTA_305952",
+                            "MTA_307178",
+                            "MTA_801020"
+                        ],
+                        "subGroups": []
+                    },
+                    {
+                        "id": "0",
+                        "name": {
+                            "name": "SUNSET PARK 39ST-1AV via 8 AV",
+                            "names": [
+                                "SUNSET PARK 39ST-1AV via 8 AV"
+                            ],
+                            "type": "destination"
+                        },
+                        "polylines": [
+                            {
+                                "length": 14,
+                                "levels": "",
+                                "points": "cpzvF|zxbMpAgCLJx@?TMHSPy@JWJk@e@e@Uf@MX_@r@g@bA"
+                            },
+                            {
+                                "length": 137,
+                                "levels": "",
+                                "points": "cpzvF|zxbMORa@Zo@\\cA[_LiD{LwDk@zAeAlCuAjDAFwAlDe@hASh@a@bAIREJgAlCGG]]_FaEs@k@qDwCw@o@USSQWUsAiAo@gAu@qA_BoC]g@{@oAGKi@yAESq@_ICOIe@Ui@OUm@e@kBm@c@Oy@UqAk@[w@aAaBi@}@u@oAeB{CuCxFMTmH{Bw@c@CGw@iAmBqBo@o@_AcAoBsBm@o@aAcAqBwBu@w@s@u@{B_Cw@y@_AcAoBsBoBuBm@m@aAeAsBwBo@q@cAeAoBuBoBsBq@s@}@_AoBsBo@q@_AaAoBuBoBsBq@s@}@_AoBsBo@s@_AaAoBsBoBuBm@m@aAeAoBsBoBsBo@o@_AeAoBsBqBsBm@o@aAcAmBsBi@dAaFrJi@dA}EpJi@bAqEzIMTiGvLcAgAi@i@qBwBmBsBQZe@~@cDlGIPEF]t@EF`BhBNNbBpBZV`@zAFR@@HZaFxJk@fA}BnEq@BEDMV?D"
+                            }
+                        ],
+                        "stopIds": [
+                            "MTA_308355",
+                            "MTA_308356",
+                            "MTA_308270",
+                            "MTA_305872",
+                            "MTA_305873",
+                            "MTA_308176",
+                            "MTA_307203",
+                            "MTA_308177",
+                            "MTA_301616",
+                            "MTA_307647",
+                            "MTA_308199",
+                            "MTA_901493",
+                            "MTA_301620",
+                            "MTA_300407",
+                            "MTA_305883",
+                            "MTA_305884",
+                            "MTA_305885",
+                            "MTA_305886",
+                            "MTA_305887",
+                            "MTA_305888",
+                            "MTA_305889",
+                            "MTA_305891",
+                            "MTA_305892",
+                            "MTA_308099",
+                            "MTA_305895",
+                            "MTA_305897",
+                            "MTA_308100",
+                            "MTA_305900",
+                            "MTA_302778",
+                            "MTA_302779",
+                            "MTA_302780",
+                            "MTA_302781",
+                            "MTA_308084",
+                            "MTA_305906",
+                            "MTA_305907",
+                            "MTA_302975",
+                            "MTA_305909",
+                            "MTA_302784",
+                            "MTA_307177"
+                        ],
+                        "subGroups": []
+                    }
+                ],
+                "type": "direction"
+            }
+        ],
+        "stops": [
+            {
+                "code": "300407",
+                "direction": "NW",
+                "id": "MTA_300407",
+                "lat": 40.626591,
+                "locationType": 0,
+                "lon": -74.01767,
+                "name": "BAY RIDGE PY/7 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "6CBE45",
+                        "description": "via Bay Ridge Pkwy / 86th St / Avenue Z",
+                        "id": "MTA NYCT_B4",
+                        "longName": "Bay Ridge - Sheepshead Bay",
+                        "shortName": "B4",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b004cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "301616",
+                "direction": "NE",
+                "id": "MTA_301616",
+                "lat": 40.620617,
+                "locationType": 0,
+                "lon": -74.024048,
+                "name": "FT HAMILTON PY/86 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via Ft Hamilton Pkwy / 13th & 14th Av",
+                        "id": "MTA NYCT_B16",
+                        "longName": "Bay Ridge - Lefferts Gardens",
+                        "shortName": "B16",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b016cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "301620",
+                "direction": "NE",
+                "id": "MTA_301620",
+                "lat": 40.624939,
+                "locationType": 0,
+                "lon": -74.017593,
+                "name": "FT HAMILTON PY/77 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via Ft Hamilton Pkwy / 13th & 14th Av",
+                        "id": "MTA NYCT_B16",
+                        "longName": "Bay Ridge - Lefferts Gardens",
+                        "shortName": "B16",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b016cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302678",
+                "direction": "SE",
+                "id": "MTA_302678",
+                "lat": 40.654972,
+                "locationType": 0,
+                "lon": -74.010178,
+                "name": "39 ST/2 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302679",
+                "direction": "SE",
+                "id": "MTA_302679",
+                "lat": 40.653961,
+                "locationType": 0,
+                "lon": -74.008492,
+                "name": "39 ST/3 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302680",
+                "direction": "SE",
+                "id": "MTA_302680",
+                "lat": 40.652336,
+                "locationType": 0,
+                "lon": -74.005798,
+                "name": "39 ST/4 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302681",
+                "direction": "SE",
+                "id": "MTA_302681",
+                "lat": 40.651302,
+                "locationType": 0,
+                "lon": -74.004082,
+                "name": "39 ST/5 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302682",
+                "direction": "SE",
+                "id": "MTA_302682",
+                "lat": 40.649685,
+                "locationType": 0,
+                "lon": -74.001427,
+                "name": "39 ST/6 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302683",
+                "direction": "SE",
+                "id": "MTA_302683",
+                "lat": 40.648376,
+                "locationType": 0,
+                "lon": -73.999229,
+                "name": "39 ST/7 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302778",
+                "direction": "NW",
+                "id": "MTA_302778",
+                "lat": 40.647522,
+                "locationType": 0,
+                "lon": -73.997612,
+                "name": "39 ST/8 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302779",
+                "direction": "NW",
+                "id": "MTA_302779",
+                "lat": 40.648861,
+                "locationType": 0,
+                "lon": -73.999825,
+                "name": "39 ST/7 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302780",
+                "direction": "NW",
+                "id": "MTA_302780",
+                "lat": 40.650185,
+                "locationType": 0,
+                "lon": -74.002014,
+                "name": "39 ST/6 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302781",
+                "direction": "NW",
+                "id": "MTA_302781",
+                "lat": 40.651234,
+                "locationType": 0,
+                "lon": -74.003754,
+                "name": "39 ST/5 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302784",
+                "direction": "NW",
+                "id": "MTA_302784",
+                "lat": 40.655556,
+                "locationType": 0,
+                "lon": -74.010803,
+                "name": "39 ST/2 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "302975",
+                "direction": "SW",
+                "id": "MTA_302975",
+                "lat": 40.655155,
+                "locationType": 0,
+                "lon": -74.007164,
+                "name": "3 AV/37 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 3rd Av / 39th St",
+                        "id": "MTA NYCT_B37",
+                        "longName": "Downtown Brooklyn - Bay Ridge",
+                        "shortName": "B37",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b037cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305872",
+                "direction": "N",
+                "id": "MTA_305872",
+                "lat": 40.610268,
+                "locationType": 0,
+                "lon": -74.024452,
+                "name": "7 AV/POLY PL",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via 18th Av / Foster Av / Avenue D",
+                        "id": "MTA NYCT_B8",
+                        "longName": "Dyker Heights - East Flatbush",
+                        "shortName": "B8",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b008cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305873",
+                "direction": "N",
+                "id": "MTA_305873",
+                "lat": 40.612347,
+                "locationType": 0,
+                "lon": -74.023605,
+                "name": "7 AV/POLY PREP ENT",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via 18th Av / Foster Av / Avenue D",
+                        "id": "MTA NYCT_B8",
+                        "longName": "Dyker Heights - East Flatbush",
+                        "shortName": "B8",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b008cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305883",
+                "direction": "NE",
+                "id": "MTA_305883",
+                "lat": 40.62833,
+                "locationType": 0,
+                "lon": -74.016899,
+                "name": "8 AV/73 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305884",
+                "direction": "NE",
+                "id": "MTA_305884",
+                "lat": 40.629429,
+                "locationType": 0,
+                "lon": -74.015755,
+                "name": "8 AV/71 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305885",
+                "direction": "NE",
+                "id": "MTA_305885",
+                "lat": 40.630543,
+                "locationType": 0,
+                "lon": -74.014595,
+                "name": "8 AV/BAY RIDGE AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305886",
+                "direction": "NE",
+                "id": "MTA_305886",
+                "lat": 40.631718,
+                "locationType": 0,
+                "lon": -74.013374,
+                "name": "8 AV/67 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305887",
+                "direction": "NE",
+                "id": "MTA_305887",
+                "lat": 40.632874,
+                "locationType": 0,
+                "lon": -74.012177,
+                "name": "8 AV/65 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305888",
+                "direction": "NE",
+                "id": "MTA_305888",
+                "lat": 40.634544,
+                "locationType": 0,
+                "lon": -74.010429,
+                "name": "8 AV/62 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305889",
+                "direction": "NE",
+                "id": "MTA_305889",
+                "lat": 40.6357,
+                "locationType": 0,
+                "lon": -74.009232,
+                "name": "8 AV/60 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305891",
+                "direction": "NE",
+                "id": "MTA_305891",
+                "lat": 40.637405,
+                "locationType": 0,
+                "lon": -74.007462,
+                "name": "8 AV/57 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305892",
+                "direction": "NE",
+                "id": "MTA_305892",
+                "lat": 40.638512,
+                "locationType": 0,
+                "lon": -74.00631,
+                "name": "8 AV/55 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305895",
+                "direction": "NE",
+                "id": "MTA_305895",
+                "lat": 40.641315,
+                "locationType": 0,
+                "lon": -74.003387,
+                "name": "8 AV/50 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305897",
+                "direction": "NE",
+                "id": "MTA_305897",
+                "lat": 40.642982,
+                "locationType": 0,
+                "lon": -74.001656,
+                "name": "8 AV/47 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305900",
+                "direction": "NE",
+                "id": "MTA_305900",
+                "lat": 40.646351,
+                "locationType": 0,
+                "lon": -73.998154,
+                "name": "8 AV/41 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305906",
+                "direction": "NW",
+                "id": "MTA_305906",
+                "lat": 40.654583,
+                "locationType": 0,
+                "lon": -74.004776,
+                "name": "36 ST/4 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305907",
+                "direction": "NW",
+                "id": "MTA_305907",
+                "lat": 40.655396,
+                "locationType": 0,
+                "lon": -74.006134,
+                "name": "36 ST/3 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305909",
+                "direction": "W",
+                "id": "MTA_305909",
+                "lat": 40.654232,
+                "locationType": 0,
+                "lon": -74.008484,
+                "name": "3 AV/39 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305922",
+                "direction": "SW",
+                "id": "MTA_305922",
+                "lat": 40.646488,
+                "locationType": 0,
+                "lon": -73.998238,
+                "name": "8 AV/40 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305925",
+                "direction": "SW",
+                "id": "MTA_305925",
+                "lat": 40.643143,
+                "locationType": 0,
+                "lon": -74.001709,
+                "name": "8 AV/46 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305927",
+                "direction": "SW",
+                "id": "MTA_305927",
+                "lat": 40.641449,
+                "locationType": 0,
+                "lon": -74.003471,
+                "name": "8 AV/49 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305929",
+                "direction": "SW",
+                "id": "MTA_305929",
+                "lat": 40.639782,
+                "locationType": 0,
+                "lon": -74.005196,
+                "name": "8 AV/52 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305932",
+                "direction": "SW",
+                "id": "MTA_305932",
+                "lat": 40.636444,
+                "locationType": 0,
+                "lon": -74.008675,
+                "name": "8 AV/58 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305933",
+                "direction": "SW",
+                "id": "MTA_305933",
+                "lat": 40.635281,
+                "locationType": 0,
+                "lon": -74.009895,
+                "name": "8 AV/60 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305934",
+                "direction": "SW",
+                "id": "MTA_305934",
+                "lat": 40.634449,
+                "locationType": 0,
+                "lon": -74.010757,
+                "name": "8 AV/62 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305935",
+                "direction": "SW",
+                "id": "MTA_305935",
+                "lat": 40.632404,
+                "locationType": 0,
+                "lon": -74.012878,
+                "name": "8 AV/65 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305936",
+                "direction": "SW",
+                "id": "MTA_305936",
+                "lat": 40.631283,
+                "locationType": 0,
+                "lon": -74.014053,
+                "name": "8 AV/67 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305937",
+                "direction": "SW",
+                "id": "MTA_305937",
+                "lat": 40.630165,
+                "locationType": 0,
+                "lon": -74.015205,
+                "name": "8 AV/BAY RIDGE AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "6CBE45",
+                        "description": "via Bay Ridge Av / Bath Av",
+                        "id": "MTA NYCT_B64",
+                        "longName": "Bay Ridge - Coney Island",
+                        "shortName": "B64",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b064cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305939",
+                "direction": "S",
+                "id": "MTA_305939",
+                "lat": 40.630489,
+                "locationType": 0,
+                "lon": -74.017517,
+                "name": "7 AV SVC RD S/OVINGTON AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305940",
+                "direction": "S",
+                "id": "MTA_305940",
+                "lat": 40.629051,
+                "locationType": 0,
+                "lon": -74.017998,
+                "name": "7 AV SVC RD S/72 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305951",
+                "direction": "S",
+                "id": "MTA_305951",
+                "lat": 40.614189,
+                "locationType": 0,
+                "lon": -74.023087,
+                "name": "7 AV/92 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via 18th Av / Foster Av / Avenue D",
+                        "id": "MTA NYCT_B8",
+                        "longName": "Dyker Heights - East Flatbush",
+                        "shortName": "B8",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b008cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "305952",
+                "direction": "S",
+                "id": "MTA_305952",
+                "lat": 40.611946,
+                "locationType": 0,
+                "lon": -74.024002,
+                "name": "7 AV/POLY PREP ENT",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via 18th Av / Foster Av / Avenue D",
+                        "id": "MTA NYCT_B8",
+                        "longName": "Dyker Heights - East Flatbush",
+                        "shortName": "B8",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b008cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "306959",
+                "direction": "SE",
+                "id": "MTA_306959",
+                "lat": 40.616684,
+                "locationType": 0,
+                "lon": -74.027245,
+                "name": "92 ST/FT HAMILTON PY",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via 18th Av / Foster Av / Avenue D",
+                        "id": "MTA NYCT_B8",
+                        "longName": "Dyker Heights - East Flatbush",
+                        "shortName": "B8",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b008cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Verrazano-Narrows Bridge / Clove Rd",
+                        "id": "MTA NYCT_S53",
+                        "longName": "Port Richmond - Bay Ridge",
+                        "shortName": "S53",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/staten/s053cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "006CB7",
+                        "description": "Select Bus Service via Verrazano-Narrows Bridge / Hylan Blvd",
+                        "id": "MTA NYCT_S79+",
+                        "longName": "Staten Island Mall - Bay Ridge",
+                        "shortName": "S79-SBS",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/staten/s079scur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Verrazano-Narrows / Victory",
+                        "id": "MTA NYCT_S93",
+                        "longName": "College of Staten Island - Bay Ridge LTD",
+                        "shortName": "S93",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/staten/s093cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307177",
+                "direction": "W",
+                "id": "MTA_307177",
+                "lat": 40.656498,
+                "locationType": 0,
+                "lon": -74.012108,
+                "name": "39 ST/1 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307178",
+                "direction": "S",
+                "id": "MTA_307178",
+                "lat": 40.610001,
+                "locationType": 0,
+                "lon": -74.024704,
+                "name": "7 AV/POLY PL",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307203",
+                "direction": "NW",
+                "id": "MTA_307203",
+                "lat": 40.616665,
+                "locationType": 0,
+                "lon": -74.026733,
+                "name": "92 ST/GATLING PL",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via 18th Av / Foster Av / Avenue D",
+                        "id": "MTA NYCT_B8",
+                        "longName": "Dyker Heights - East Flatbush",
+                        "shortName": "B8",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b008cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Verrazano-Narrows Bridge / Clove Rd",
+                        "id": "MTA NYCT_S53",
+                        "longName": "Port Richmond - Bay Ridge",
+                        "shortName": "S53",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/staten/s053cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "006CB7",
+                        "description": "Select Bus Service via Verrazano-Narrows Bridge / Hylan Blvd",
+                        "id": "MTA NYCT_S79+",
+                        "longName": "Staten Island Mall - Bay Ridge",
+                        "shortName": "S79-SBS",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/staten/s079scur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Verrazano-Narrows / Victory",
+                        "id": "MTA NYCT_S93",
+                        "longName": "College of Staten Island - Bay Ridge LTD",
+                        "shortName": "S93",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/staten/s093cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307486",
+                "direction": "S",
+                "id": "MTA_307486",
+                "lat": 40.626751,
+                "locationType": 0,
+                "lon": -74.018852,
+                "name": "7 AV SVC RD S/BAY RIDGE PKY",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307487",
+                "direction": "SW",
+                "id": "MTA_307487",
+                "lat": 40.625286,
+                "locationType": 0,
+                "lon": -74.019485,
+                "name": "7 AV SVC RD S/77 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307488",
+                "direction": "SW",
+                "id": "MTA_307488",
+                "lat": 40.624023,
+                "locationType": 0,
+                "lon": -74.020393,
+                "name": "7 AV SVC RD S/79 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via Ft Hamilton Pkwy / 13th & 14th Av",
+                        "id": "MTA NYCT_B16",
+                        "longName": "Bay Ridge - Lefferts Gardens",
+                        "shortName": "B16",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b016cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307489",
+                "direction": "SW",
+                "id": "MTA_307489",
+                "lat": 40.622814,
+                "locationType": 0,
+                "lon": -74.021408,
+                "name": "7 AV SVC RD S/81 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via Ft Hamilton Pkwy / 13th & 14th Av",
+                        "id": "MTA NYCT_B16",
+                        "longName": "Bay Ridge - Lefferts Gardens",
+                        "shortName": "B16",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b016cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307490",
+                "direction": "SW",
+                "id": "MTA_307490",
+                "lat": 40.621769,
+                "locationType": 0,
+                "lon": -74.022636,
+                "name": "FT HAMILTON PY/83 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via Ft Hamilton Pkwy / 13th & 14th Av",
+                        "id": "MTA NYCT_B16",
+                        "longName": "Bay Ridge - Lefferts Gardens",
+                        "shortName": "B16",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b016cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307514",
+                "direction": "SW",
+                "id": "MTA_307514",
+                "lat": 40.620594,
+                "locationType": 0,
+                "lon": -74.024391,
+                "name": "FT HAMILTON PY/86 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307647",
+                "direction": "NE",
+                "id": "MTA_307647",
+                "lat": 40.621799,
+                "locationType": 0,
+                "lon": -74.022278,
+                "name": "FT HAMILTON PY/83 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via Ft Hamilton Pkwy / 13th & 14th Av",
+                        "id": "MTA NYCT_B16",
+                        "longName": "Bay Ridge - Lefferts Gardens",
+                        "shortName": "B16",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b016cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "307709",
+                "direction": "SE",
+                "id": "MTA_307709",
+                "lat": 40.653816,
+                "locationType": 0,
+                "lon": -74.005241,
+                "name": "37 ST/4 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308084",
+                "direction": "NE",
+                "id": "MTA_308084",
+                "lat": 40.652916,
+                "locationType": 0,
+                "lon": -74.005714,
+                "name": "4 AV/39 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308099",
+                "direction": "NE",
+                "id": "MTA_308099",
+                "lat": 40.640202,
+                "locationType": 0,
+                "lon": -74.004555,
+                "name": "8 AV/52 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308100",
+                "direction": "NE",
+                "id": "MTA_308100",
+                "lat": 40.644672,
+                "locationType": 0,
+                "lon": -73.999908,
+                "name": "8 AV/44 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308101",
+                "direction": "SW",
+                "id": "MTA_308101",
+                "lat": 40.644844,
+                "locationType": 0,
+                "lon": -73.999954,
+                "name": "8 AV/43 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308102",
+                "direction": "SW",
+                "id": "MTA_308102",
+                "lat": 40.638123,
+                "locationType": 0,
+                "lon": -74.00692,
+                "name": "8 AV/55 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308176",
+                "direction": "NW",
+                "id": "MTA_308176",
+                "lat": 40.614899,
+                "locationType": 0,
+                "lon": -74.02317,
+                "name": "92 ST/7 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via 18th Av / Foster Av / Avenue D",
+                        "id": "MTA NYCT_B8",
+                        "longName": "Dyker Heights - East Flatbush",
+                        "shortName": "B8",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b008cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308177",
+                "direction": "NE",
+                "id": "MTA_308177",
+                "lat": 40.618477,
+                "locationType": 0,
+                "lon": -74.026054,
+                "name": "FT HAMILTON PY/90 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308178",
+                "direction": "SW",
+                "id": "MTA_308178",
+                "lat": 40.618061,
+                "locationType": 0,
+                "lon": -74.026634,
+                "name": "FT HAMILTON PY/90 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308194",
+                "direction": "SW",
+                "id": "MTA_308194",
+                "lat": 40.656456,
+                "locationType": 0,
+                "lon": -74.012245,
+                "name": "39 ST/1 AV",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "EE352E",
+                        "description": "via Church Av / 39th St",
+                        "id": "MTA NYCT_B35",
+                        "longName": "Brownsville - Sunset Park",
+                        "shortName": "B35",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b035cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308199",
+                "direction": "E",
+                "id": "MTA_308199",
+                "lat": 40.622349,
+                "locationType": 0,
+                "lon": -74.020149,
+                "name": "FT HAMILTON PY/81 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via Ft Hamilton Pkwy / 13th & 14th Av",
+                        "id": "MTA NYCT_B16",
+                        "longName": "Bay Ridge - Lefferts Gardens",
+                        "shortName": "B16",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b016cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308270",
+                "direction": "NW",
+                "id": "MTA_308270",
+                "lat": 40.608925,
+                "locationType": 0,
+                "lon": -74.023209,
+                "name": "CROPSEY AV/OPP VA HOSPITAL",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via 18th Av / Foster Av / Avenue D",
+                        "id": "MTA NYCT_B8",
+                        "longName": "Dyker Heights - East Flatbush",
+                        "shortName": "B8",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b008cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308355",
+                "direction": "SE",
+                "id": "MTA_308355",
+                "lat": 40.609104,
+                "locationType": 0,
+                "lon": -74.023819,
+                "name": "CROPSEY AV/BKLYN CAMPUS VA",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "308356",
+                "direction": "S",
+                "id": "MTA_308356",
+                "lat": 40.608696,
+                "locationType": 0,
+                "lon": -74.023781,
+                "name": "VA HOSPITAL/BAY 3",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "801020",
+                "direction": "SE",
+                "id": "MTA_801020",
+                "lat": 40.609135,
+                "locationType": 0,
+                "lon": -74.023888,
+                "name": "CROPSEY AV/VA HOSPITAL",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            },
+            {
+                "code": "901493",
+                "direction": "NE",
+                "id": "MTA_901493",
+                "lat": 40.623413,
+                "locationType": 0,
+                "lon": -74.019066,
+                "name": "7 AV/79 ST",
+                "routes": [
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "FAA61A",
+                        "description": "via Ft Hamilton Pkwy / 13th & 14th Av",
+                        "id": "MTA NYCT_B16",
+                        "longName": "Bay Ridge - Lefferts Gardens",
+                        "shortName": "B16",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b016cur.pdf"
+                    },
+                    {
+                        "agency": {
+                            "disclaimer": "",
+                            "id": "MTA NYCT",
+                            "lang": "en",
+                            "name": "MTA New York City Transit",
+                            "phone": "718-330-1234",
+                            "privateService": false,
+                            "timezone": "America/New_York",
+                            "url": "http://www.mta.info"
+                        },
+                        "color": "B933AD",
+                        "description": "via 92nd St / 3rd Av / 8th Av",
+                        "id": "MTA NYCT_B70",
+                        "longName": "Dyker Heights - Sunset Park",
+                        "shortName": "B70",
+                        "textColor": "FFFFFF",
+                        "type": 3,
+                        "url": "http://web.mta.info/nyct/bus/schedule/bkln/b070cur.pdf"
+                    }
+                ],
+                "wheelchairBoarding": "UNKNOWN"
+            }
+        ]
+    },
+    "text": "OK",
+    "version": 1
+}

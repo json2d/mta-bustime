@@ -1,0 +1,15 @@
+{
+    "Siri": {
+        "ServiceDelivery": {
+            "ResponseTimestamp": "2017-03-31T02:53:50.414-04:00",
+            "StopMonitoringDelivery": [
+                {
+                    "MonitoredStopVisit": [],
+                    "ResponseTimestamp": "2017-03-31T02:53:50.414-04:00",
+                    "ValidUntil": "2017-03-31T02:54:50.414-04:00"
+                }
+            ],
+            "SituationExchangeDelivery": []
+        }
+    }
+}
