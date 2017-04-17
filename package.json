@@ -1,19 +1,18 @@
 {
   "name": "mta-bustime",
   "version": "1.0.0",
-  "description": "node.js API client for MTA-BusTime data services",
+  "description": "Node.js wrapper for MTA-BusTime REST API",
   "main": "lib/mta-bustime.js",
   "scripts": {
-    "build-db":"node lib/build-db.js",
     "test": "tap test/*.js"
   },
   "author": "Jason Yung",
   "license": "MIT",
   "devDependencies": {
-    "tap": "^10.3.1",
-    "dotenv": "^4.0.0"
+    "tap": "^10.3.1"
   },
   "dependencies": {
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "dotenv": "^4.0.0"
   }
 }
