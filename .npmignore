@@ -1,0 +1,8 @@
+# ignore files that are not neccessary for the npm module to work
+node_modules
+test
+.eslintignore
+.eslintrc
+.gitignore
+.npmignore
+.travis.yml
