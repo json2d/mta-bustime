@@ -6,6 +6,16 @@
   "scripts": {
     "test": "tap test/*.js"
   },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/bitstrider/mta-bustime.git"
+  },
+  "keywords": [
+    "mta",
+    "bus",
+    "bustime",
+    "nyc"
+  ],
   "author": "Jason Yung",
   "license": "MIT",
   "devDependencies": {
