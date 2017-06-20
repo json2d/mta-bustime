@@ -39,7 +39,13 @@ http://bustime.mta.info/wiki/Developers/SIRIStopMonitoring
 
 
 ## Tests
-To run tests on the wrapper functions:
+To run tests on the wrapper functions, first you'll need to create the file `/test/config/.env` with your API key like this:
+
+```
+KEY=<your-API-key>
+```
+
+Then run the script:
 
 ```sh
 npm test

@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').config({path: '/test/config/.env'})
 
 const tap = require('tap')
 const fs = require('fs')
