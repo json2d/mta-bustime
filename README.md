@@ -50,11 +50,11 @@ Responses for test API requests are saved to `test/cache` for further inspection
 ## Dependencies
 
 - [request](https://github.com/request/request): Simplified HTTP request client.
-- [dotenv](https://github.com/motdotla/dotenv): Loads environment variables from .env file
 
 ## Dev Dependencies
 
 - [tap](https://github.com/tapjs/node-tap): A Test-Anything-Protocol library
+- [dotenv](https://github.com/motdotla/dotenv): Loads environment variables from .env file
 
 
 ## License
